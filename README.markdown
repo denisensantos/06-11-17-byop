@@ -1,5 +1,5 @@
 # React London - BYOP
-Presentation Slides for 31st November 2017 React London - BYOP @ HomeAway 
+Presentation Slides for 6th November 2017 React London - BYOP @ HomeAway 
 ## Reference
 
 The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown).
