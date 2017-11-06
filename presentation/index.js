@@ -51,9 +51,8 @@ export default class Presentation extends React.Component {
         <Slide transition={["fade"]} bgColor="primary">
           <Heading size={2} textColor="secondary">Wifi Details</Heading>
           <hr/>
-          <Text size={6} textColor="secondary"><strong>Name:</strong> Add Here ... </Text>
-          <Text size={6} textColor="secondary"><strong>Security Type:</strong> Add Here ...</Text>
-          <Text size={6} textColor="secondary"><strong>Password:</strong> Add Here ...</Text>
+          <Text size={6} textColor="secondary"><strong>Name:</strong> HAGuest</Text>
+          <Text size={6} textColor="secondary"><strong>Password:</strong> vacations</Text>
         </Slide>
         <Slide transition={["fade"]} bgColor="primary">
           <Image src={images.fire} height={600}/>
